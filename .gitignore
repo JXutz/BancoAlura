@@ -28,3 +28,19 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Compilados ##
+*.class
+out/
+build/
+target/
+
+### Intellij ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### Files ###
+.DS_Store
+Thumbs.db
